@@ -1,0 +1,35 @@
+html{font-size:150%}
+body {
+  background-color: black;
+  font-family:Apple Chancery, cursive;
+  color:white;
+  font-size: 20px
+  }
+h1 {
+  color:red;
+  font-size: 55px;
+  text-align: center;
+  font-family:Courier, monospace}
+  
+h2{color:silver;
+	font-size:20px;
+	text-align:right;
+	font-style: italic;
+	font-family:Arial, sans-serif}
+
+img{width:700px
+			}
+a {
+	color:blue;
+    font-size:35px;
+	text-align:center;
+	font-family:Arial Narrow, sans-serif}
+	
+table {
+border: medium solid #000000;
+width: 100%;
+}
+td, th {
+border: thin solid #6495ed;
+width: 50%;
+}
