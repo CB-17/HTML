@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Page 2</title>
+  <link rel="stylesheet" href="monstyle2.css" />
+  </head>
+  <body>
+  <h6> The London Eye </h6>
+  <img src="photo.gif" alt="London Eye Gif" />
+  </body>
+  </html>
