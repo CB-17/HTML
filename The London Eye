@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>The London Eye</title>
+   <link rel="stylesheet" href="monstyle.css" />
+ </head>
+ <body>
+   <h1>THE LONDON EYE </h1><!--Insertion du titre-->
+	 <h2>The London Eye ou L'oeil de Londres en francais , est une grande roue mise en place a Londres pour les festivites de l'an 2000, au meme moment que le Dome du millenaire de Greenwich. Le London Eye, ''l'oeil de Londres'', est une grande roue de 135 metres de diametre, la plus grande d'Europe. Elle est installee sur les rives de la Tamise. Elle compte 32 cabines en forme d'oeufs, chacune representant un conte de Grande-Bretagne. 
+	Chaque capsule peut accueillir jusqu'a 25 personnes : c'est donc 800 personnes qui peuvent monter a la fois sur la roue. Elle tourne tres lentement, ce qui la dispense de s'arreter pour laisser monter les passagers (elle se stoppera tout de meme pour laisser monter des personnes ayant des difficultes a se mouvoir). 
+	Un tour complet de roue dure normalement 30 minutes.</h2> <!--Explication du London Eye-->
+	<table> <tr> <td>
+	<a href="page2.html">Venez faire un tour dans le London Eye ! </a>	
+	<table >
+	<tr><td>Pays</td><td>Angleterre</td></tr>
+	<tr><td>Ville</td><td>Londres</td></tr>
+	<tr><td>Naissance</td><td>2000</td></tr>
+	</table >
+	</td>
+	<td>
+	<img src="photo.jpg" alt="London Eye" /> </td> </tr></table>
+ </body>
+</html>
